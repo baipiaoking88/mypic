@@ -1,0 +1,17 @@
+/* next主题隐藏底栏 */
+.relative.z-10.dark\:bg-gray-800.flex-shrink-0.justify-center.text-center.m-auto.w-full.leading-6.text-sm.p-6.bg-white.dark\:text-gray-400 {
+  display: none !important;
+}
+
+/* 评论区精简 */
+.wl-reaction {
+  display: none !important;
+}
+.wl-power {
+  display: none !important;
+}
+
+/* 隐藏上下一篇文章 */
+.text-gray-800.border-t.dark\:text-gray-300.flex.flex-wrap.lg\:flex-nowrap.lg\:space-x-10.justify-between.py-2 {
+  display: none;
+}
