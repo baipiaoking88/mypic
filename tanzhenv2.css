@@ -72,8 +72,8 @@ i.icon {
 /* 大卡片 */
 #app .ui.fluid.accordion {
     background-color: #fbfbfb26 !important;
-    border-radius: 1rem !important;
-    backdrop-filter: blur(5px);
+    border-radius: 1.1rem !important;
+    backdrop-filter: blur(10px);
 }
 
 /* 小卡片 */
