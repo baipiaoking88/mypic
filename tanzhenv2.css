@@ -80,6 +80,7 @@ i.icon {
 .ui.four.cards>.card {
     background-color: #fafafacc !important;
     border-radius: 1rem !important;
+    backdrop-filter: blur(10px);
 }
 
 .status.cards .wide.column {
