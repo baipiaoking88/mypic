@@ -79,7 +79,7 @@ i.icon {
 .ui.four.cards>.card {
     background-color: #fafafaa3 !important;
     border-radius: 1rem !important;
-    backdrop-filter: blur(1.5px);
+    backdrop-filter: blur(1px);
 }
 
 .status.cards .wide.column {
@@ -206,6 +206,7 @@ i.arrow.alternate.circle.up.outline.icon {
     border: 1px solid transparent !important;
     background-color: #fafafaeb !important;
     font-family: Arial,Helvetica,sans-serif !important;
+    backdrop-filter: blur(1px);
 }
 .ui.content {
     margin: 0 !important;
