@@ -76,9 +76,9 @@ i.icon {
 }
 
 /* 小卡片 */
-.ui.four.cards > .card {
-  background-color: rgba(255, 255, 255, 0.85) !important;
-  border-radius: 1rem !important;
+.ui.four.cards>.card {
+    background-color: #fafafaa3 !important;
+    border-radius: 1rem !important;
 }
 
 .status.cards .wide.column {
@@ -154,7 +154,7 @@ i.arrow.alternate.circle.up.outline.icon {
     background: #fafafaeb !important;
     -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;
     box-shadow: 0px 0px 0 0 #fafafaeb !important;
-    -webkit-tap-highlight-color: rgba(0,0,0,0.5) !important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
 }
 
 .ui.bottom.right.popup:before {
@@ -164,7 +164,7 @@ i.arrow.alternate.circle.up.outline.icon {
     background: #fafafaeb !important
     -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;
     box-shadow: 0px 0px 0 0 #fafafaeb !important;
-    -webkit-tap-highlight-color: rgba(0,0,0,0.5) !important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
 }
 
 .ui.top.left.popup:before {
@@ -174,7 +174,7 @@ i.arrow.alternate.circle.up.outline.icon {
     background: #fafafaeb !important;
     -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;
     box-shadow: 0px 0px 0 0 #fafafaeb !important;
-    -webkit-tap-highlight-color: rgba(0,0,0,0.5) !important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
 }
 
 .ui.top.right.popup:before {
@@ -184,7 +184,7 @@ i.arrow.alternate.circle.up.outline.icon {
     background: #fafafaeb !important;
     -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;
     box-shadow: 0px 0px 0 0 #fafafaeb !important;
-    -webkit-tap-highlight-color: rgba(0,0,0,0.5) !important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
 }
 
 .ui.left.center.popup:before {
@@ -194,7 +194,7 @@ i.arrow.alternate.circle.up.outline.icon {
     background: #fafafaeb !important;
     -webkit-box-shadow: 0px 0px 0 0 #fafafaeb !important;
     box-shadow: 0px 0px 0 0 #fafafaeb !important;
-    -webkit-tap-highlight-color: rgba(0,0,0,0.5) !important;
+    -webkit-tap-highlight-color: rgba(0,0,0,0) !important;
 }
 
 /* 弹出卡片 */
