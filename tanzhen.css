@@ -9,7 +9,21 @@
         margin-top: 0.5em !important;
     }
 }
-
+/* 背景图片 */
+body {
+    content: " " !important;
+    background: fixed !important;
+    z-index: -1 !important;
+    top: 0 !important;
+    right: 0 !important;
+    bottom: 0 !important;
+    left: 0 !important;
+    background-position: top !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+    background-image: url(https://www.loliapi.com/acg/) !important;
+    font-family: Arial,Helvetica,sans-serif !important;
+}
 /* 整体图标 */
 i.icon {
     color: #000;
