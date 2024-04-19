@@ -77,7 +77,7 @@ i.icon {
 
 /* 小卡片 */
 .ui.four.cards>.card {
-    background-color: #fafafaa6 !important;
+    background-color: #fafafabf !important;
     border-radius: 1rem !important;
 }
 
