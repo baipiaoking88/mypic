@@ -77,9 +77,8 @@ i.icon {
 
 /* 小卡片 */
 .ui.four.cards>.card {
-    background-color: #fafafaa3 !important;
+    background-color: #fafafaa6 !important;
     border-radius: 1rem !important;
-    backdrop-filter: blur(1px);
 }
 
 .status.cards .wide.column {
