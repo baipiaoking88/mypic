@@ -77,7 +77,7 @@ i.icon {
 
 /* 小卡片 */
 .ui.four.cards>.card {
-    background-color: #fafafabf !important;
+    background-color: #fafafaa6 !important;
     border-radius: 1rem !important;
 }
 
@@ -205,7 +205,7 @@ i.arrow.alternate.circle.up.outline.icon {
     border: 1px solid transparent !important;
     background-color: #fafafaeb !important;
     font-family: Arial,Helvetica,sans-serif !important;
-    backdrop-filter: blur(1px);
+    backdrop-filter: blur(10px);
 }
 .ui.content {
     margin: 0 !important;
