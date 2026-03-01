@@ -1,0 +1,12 @@
+/* 评论区精简 */
+.wl-reaction {
+  display: none !important;
+}
+.wl-power {
+  display: none !important;
+}
+
+/* 隐藏页脚 */
+footer {
+  display: none !important;
+}
